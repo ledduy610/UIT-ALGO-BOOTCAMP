@@ -18,3 +18,7 @@ UIT ALGOBOOTCAMP, ICPC, Data Structures and Algorithms
 * http://community.topcoder.com/tc
 * http://codeforces.com/problemset
 * https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
+* https://www3.cs.stonybrook.edu/~algorith/video-lectures/
+* https://algo.is/
+* https://www.coursera.org/specializations/algorithms
+* https://petr-mitrichev.blogspot.com/
