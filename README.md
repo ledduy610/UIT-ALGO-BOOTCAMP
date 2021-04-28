@@ -16,6 +16,8 @@ UIT ALGOBOOTCAMP, ICPC, Data Structures and Algorithms
 * https://github.com/ledduy610/interactive-coding-challenges: 120+ continually updated, interactive, and test-driven coding challenges, with Anki flashcards. Challenges focus on algorithms and data structures found in coding interviews.
 * https://github.com/cs-MohamedAyman/Problem-Solving-Training: Problem solving training for computer science students
 * https://github.com/ippeb/ACM-ICPC: List of basic algorithms and data structures for algorithmic programming competitions (International Olympiad in Informatics (IOI), ACM International Collegiate Programming Competition (ICPC), Google Code Jam, Facebook Hacker Cup, etc.). In the past, this list has been quite useful for solving algorithmic programming challenges on online judges like the Sphere Online Judge (SPOJ) and competitions. Most of this has been coded during high-school (2008-2010) while preparing for the IOI. Consider this a disclaimer about the coding style. I will try to improve the code whenever I have some free time. Bullet-points that are not highlighted below have not been added yet.
+* https://cp-algorithms.com/
+* https://www.topcoder.com/community/competitive-programming/tutorials/
 
 ## PROBLEMS - CONTESTS
 * https://icpc.baylor.edu/worldfinals/problems
@@ -37,10 +39,8 @@ UIT ALGOBOOTCAMP, ICPC, Data Structures and Algorithms
 * https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-wf/syllabus/
 * https://contest.cs.cmu.edu/295/
 * https://www.comp.nus.edu.sg/~stevenha/cs3233.html
-* https://studiegids.universiteitleiden.nl/courses/89521/competitive-programming
 * https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1920/
 * https://www.cs.utexas.edu/users/downing/cs104c/
-* https://www.fer.unizg.hr/en/course/compro
 * https://mycourses.aalto.fi/course/view.php?id=16952
 * https://www.coursera.org/specializations/algorithms
 * https://www.coursera.org/learn/algorithms-part1
