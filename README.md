@@ -22,3 +22,5 @@ UIT ALGOBOOTCAMP, ICPC, Data Structures and Algorithms
 * https://algo.is/
 * https://www.coursera.org/specializations/algorithms
 * https://petr-mitrichev.blogspot.com/
+* https://web.stanford.edu/class/cs97si/
+* 
