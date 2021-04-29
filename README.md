@@ -23,8 +23,14 @@ UIT ALGOBOOTCAMP, ICPC, Data Structures and Algorithms
 * https://icpc.baylor.edu/worldfinals/problems
 * https://www.spoj.com/problems/classical/sort=-6
 * http://codeforces.com/problemset?order=BY_SOLVED_ASC
+* https://open.kattis.com/problems
 * http://www.usaco.org/index.php?page=contests
 * https://www.codechef.com/IPC15P3C
+* http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118
+* https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=604
+* https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=28
+* https://github.com/stevenhalim/cpbook-code
+* https://github.com/stevenhalim/stanfordacm
 
 ## HOW TO LEARN
 * https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/
