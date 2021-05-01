@@ -62,11 +62,16 @@ UIT ALGOBOOTCAMP, ICPC, Data Structures and Algorithms
 * https://imjching.com/writings/2019/06/21/getting-into-competitive-programming/
 * http://www.deepsea9.taipei/aclab/index.php/introduction-to-competitive-programming/
 * https://www2.hawaii.edu/~nodari/teaching/f18/index.html
+* http://isaac.lsu.edu/class_2021_spring/outline.php
+* http://cs.baylor.edu/~contest/
 
 ## BOOKS
-* https://cses.fi/book.pdf
-* https://jeffe.cs.illinois.edu/teaching/algorithms/
-* https://cpbook.net/
+* Competitive Programmer’s Handbook by Antti Laaksonen https://cses.fi/book.pdf
+* Algorithms by Jeff Erickson  https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf
+* Competitive Programming https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf https://cpbook.net/
+* Principles of Algorithmic Problem Solving by Johan Sannemo https://www.csc.kth.se/~jsannemo/slask/main.pdf
+* Problems on Algorithms by Ian Parberry https://home.cse.ust.hk/~dekai/271/notes/L01a/poa.pdf
+* Art of Programming Contest by Ahmed Shamsul Arefin http://isaac.lsu.edu/class_2021_spring/local/Art_of_Programming_Contest_SE_for_uva.pdf
 
 ## Links - B
 * https://github.com/keon/algorithms
