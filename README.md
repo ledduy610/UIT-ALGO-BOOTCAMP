@@ -65,6 +65,10 @@ UIT ALGOBOOTCAMP, ICPC, Data Structures and Algorithms
 * https://www2.hawaii.edu/~nodari/teaching/f18/index.html
 * http://isaac.lsu.edu/class_2021_spring/outline.php
 * http://cs.baylor.edu/~contest/
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/
 
 ## BOOKS
 * Competitive Programmer’s Handbook by Antti Laaksonen https://cses.fi/book.pdf
